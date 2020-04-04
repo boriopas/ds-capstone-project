@@ -1,2 +1,2 @@
-# ds-capstone-project
-My capstone project for data science course
+# Data Science Capstone Project
+My capstone project for IBM Data Science course on Coursera.
